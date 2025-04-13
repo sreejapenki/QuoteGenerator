@@ -1,2 +1,2 @@
-# QuoteGenerator
-Building a Quote Generator using AWS Serverless Services.
+# classicAuthorApp
+aws lambda api for returning quotes from classic authors
